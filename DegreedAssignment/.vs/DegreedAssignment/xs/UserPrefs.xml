@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FB66D119-5808-4CA8-9BB1-C8C571C288F7}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DegreedAssignment/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="DegreedAssignment/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="DegreedAssignment/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="DegreedAssignment/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DegreedAssignment" expanded="True">
+            <Node name="DegreedAssignment" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DegreedAssignment PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
